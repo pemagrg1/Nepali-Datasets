@@ -1,5 +1,6 @@
 # Nepali-Datasets (WIP)
 A list of Nepali Dataset sources. (Hoping that it will encourage everyone to research more on Nepali language)
+#### [You are welcome to add the sources if its not listed here 📌]
 
 ## Nepali Text Corpus
 - [Nepali News Dataset](https://www.kaggle.com/lotusacharya/nepalinewsdataset)
