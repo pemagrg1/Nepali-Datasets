@@ -18,6 +18,7 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [FOURTH CONFERENCE ON MACHINE TRANSLATION (WMT19)](https://www.statmt.org/wmt19/parallel-corpus-filtering.html)
 - [English-Nepali Parallel Corpus](https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/)
 - [English - Nepali translated strings](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1069&lang=en)
+- [English - Nepali](https://github.com/arunism/English-to-Nepali-Language-Translation/tree/master/data)
 
 ## NER Datasets
 - [NEpali NER](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2)
