@@ -22,7 +22,7 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [English - Nepali](https://github.com/arunism/English-to-Nepali-Language-Translation/tree/master/data)
 
 ## NER Datasets
-- [NEpali NER](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2)
+- [Nepali NER](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2)
 
 
 ## Sentiment Analysis Datasets
