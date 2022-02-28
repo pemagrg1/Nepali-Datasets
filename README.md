@@ -38,6 +38,7 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [Nepali text summarization](https://www.kaggle.com/imageinfo/nepali-text-summarization)
 
 ## Speech Datasets
+- [High quality TTS data for Nepali](https://www.openslr.org/43/)
 
 
 ## Embeddings Datasets
