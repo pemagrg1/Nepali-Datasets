@@ -45,3 +45,6 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 
 
 ## Generation Datasets
+
+## Nepali Papers
+- [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes](https://www.researchgate.net/publication/346441002_Aspect_Based_Sentiment_Analysis_of_Nepali_Text_Using_Support_Vector_Machine_and_Naive_Bayes)
