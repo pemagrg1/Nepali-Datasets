@@ -48,3 +48,9 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 
 ## Nepali Papers
 - [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes](https://www.researchgate.net/publication/346441002_Aspect_Based_Sentiment_Analysis_of_Nepali_Text_Using_Support_Vector_Machine_and_Naive_Bayes)
+- [An Analysis of Classification Algorithms for Nepali News](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
+- [Nepali Text Document Classification Using Deep Neural Network](https://www.nepjol.info/index.php/TUJ/article/view/28677)
+- [A Machine Learning Approach to Anaphora Resolution in Nepali Language](https://ieeexplore.ieee.org/document/9200135)
+- [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
+- [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
+- [Nepali Spell Checker](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
