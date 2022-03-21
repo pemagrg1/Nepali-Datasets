@@ -41,7 +41,7 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [High quality TTS data for Nepali](https://www.openslr.org/43/)
 - [The LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/)
 - [Centre of Speech Technology Research](https://www.cstr.ed.ac.uk/projects/blizzard/2012/phase_one/)
-
+- [Mongolian Text to Speech](https://www.bible.com/mn/versions/1590-2013-ariun-bibli-2013)
 
 ## Embeddings Datasets
 
