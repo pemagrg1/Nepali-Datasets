@@ -47,7 +47,6 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [word2vec](https://github.com/R4j4n/Nepali-Word2Vec-from-scratch)
 - [300D word2vec](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)
 
-## Generation Datasets
 
 ## Other NLP datasets and Repo
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data)
