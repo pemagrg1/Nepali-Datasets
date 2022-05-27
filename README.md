@@ -44,9 +44,14 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [Mongolian Text to Speech](https://www.bible.com/mn/versions/1590-2013-ariun-bibli-2013)
 
 ## Embeddings Datasets
-
+- [word2vec](https://github.com/R4j4n/Nepali-Word2Vec-from-scratch)
+- [300D word2vec](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)
 
 ## Generation Datasets
+
+## Other NLP datasets and Repo
+- [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data)
+
 
 ## Nepali Papers
 - [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes](https://www.researchgate.net/publication/346441002_Aspect_Based_Sentiment_Analysis_of_Nepali_Text_Using_Support_Vector_Machine_and_Naive_Bayes)
