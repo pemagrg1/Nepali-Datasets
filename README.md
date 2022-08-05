@@ -50,9 +50,9 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 
 ## Other NLP datasets and Repo
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data)
+- [fine-tuned on a pretrained DistilBERT model with Sequence Classification head on 16 newsgroup dataset](https://huggingface.co/Suyogyart/nepali-16-newsgroups-classification)
 
-
-## Nepali Papers
+## Nepali Research Papers
 - [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes](https://www.researchgate.net/publication/346441002_Aspect_Based_Sentiment_Analysis_of_Nepali_Text_Using_Support_Vector_Machine_and_Naive_Bayes)
 - [An Analysis of Classification Algorithms for Nepali News](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
 - [Nepali Text Document Classification Using Deep Neural Network](https://www.nepjol.info/index.php/TUJ/article/view/28677)
