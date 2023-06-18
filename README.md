@@ -61,3 +61,4 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
 - [Nepali Spell Checker](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
 - [Named-Entity Based Sentiment Analysis of Nepali News Media Texts](https://aclanthology.org/2020.nlptea-1.16.pdf)
+- [List of more Nepali NLP papers](https://github.com/RayGone/Nepali-NLP-Progress)
