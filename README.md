@@ -24,6 +24,10 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 ## NER Datasets
 - [Nepali NER](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2)
 
+## Other Useful Links for Datasets
+- [Open Data Nepal](https://opendatanepal.com/)
+- [Census Nepal](https://censusnepal.cbs.gov.np/results)
+- [Local Government of Nepal](https://anmol2059.github.io/federal-nepal/)
 
 ## Sentiment Analysis Datasets
 - [Nepali Data Set for Sentiment Analysis](https://mahesha.com.np/nepali-data-set-for-sentiment-analysis/)
@@ -50,6 +54,7 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 
 ## Other NLP datasets and Repo
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data)
+- [Open Data Nepal](https://opendatanepal.com/)
 - [fine-tuned on a pretrained DistilBERT model with Sequence Classification head on 16 newsgroup dataset](https://huggingface.co/Suyogyart/nepali-16-newsgroups-classification)
 
 ## Nepali Research Papers
@@ -61,4 +66,6 @@ A list of Nepali Dataset sources. (Hoping that it will encourage everyone to res
 - [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
 - [Nepali Spell Checker](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
 - [Named-Entity Based Sentiment Analysis of Nepali News Media Texts](https://aclanthology.org/2020.nlptea-1.16.pdf)
+- [Natural language processing for Nepali text: a review](https://link.springer.com/article/10.1007/s10462-021-10093-1)
+- [A Descriptive Grammar of Nepali and an Analyzed Corpus](https://books.google.com.np/books?hl=en&lr=&id=Z_JoCIRN_xwC&oi=fnd&pg=PR11&dq=nepali&ots=GgTGfKiyCd&sig=AOWu0h3KpCwIhDT9flk30-V5j7A&redir_esc=y#v=onepage&q=nepali&f=false)
 - [List of more Nepali NLP papers](https://github.com/RayGone/Nepali-NLP-Progress)
