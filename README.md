@@ -2,7 +2,8 @@
 
 A thoroughly verified and curated collection of Nepali datasets for NLP research, development, and benchmarking. This resource aggregates 100+ datasets across 20+ categories to encourage and support research on low-resource Nepali language.
 
-**Last Updated:** January 11, 2026 | **Total Datasets:** 100+ | **Verification Status:** 80%+ links validated
+
+<b>NOTE:</b> Hope that this will encourage everyone to research more on Nepali language. And you are welcome to add the sources if its not listed here 📌
 
 ---
 
@@ -84,7 +85,7 @@ Annotated datasets for entity recognition (person, organization, location, etc.)
 
 - **Nepali NER Dataset (dadelani)** ✓ - Annotated for multi-token entities. [GitHub: dadelani/nepali-ner](https://github.com/dadelani/nepali-ner) *New addition.*
 
-- **Offensive Language NER and Sentiment** - **5,000+ samples** with dual annotations (NER + sentiment). [Kaggle: merishnasuwal/offensive-language-ner-and-sentiment-analysis-data](https://www.kaggle.com/datasets/merishnasuwal/offensive-language-ner-and-sentiment-analysis-data)
+- **Nepali Offensive Language NER and Sentiment** - **5,000+ samples** with dual annotations (NER + sentiment). [Kaggle: merishnasuwal/offensive-language-ner-and-sentiment-analysis-data](https://www.kaggle.com/datasets/merishnasuwal/offensive-language-ner-and-sentiment-analysis-data)
 
 ---
 
