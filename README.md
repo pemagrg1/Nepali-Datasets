@@ -155,13 +155,15 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 
 - **OpenSLR-54 (Large Nepali ASR)** ✓ - **157,000 utterances, 400+ hours**. Google-supported, professional quality. [openslr.org/54](https://www.openslr.org/54/)
 
-- **Mozilla Common Voice (Nepali)** ✓ - **Crowdsourced speech, 100k+ clips available**. Diverse speakers. [commonvoice.mozilla.org/en/datasets](https://commonvoice.mozilla.org/en/datasets) *Note: Direct Nepali link may require navigation; main site confirms availability.*
+- **Mozilla Common Voice Scripted Speech 25.0 (Nepali)** ✓ - **Crowdsourced speech, 100k+ clips available**. Diverse speakers. [Common Voice Scripted Speech 25.0 - Nepali](https://datacollective.mozillafoundation.org/datasets/cmn29l48i015so107ibwqdewu)
 
 - **Nepali Speech to Text Dataset (Parliamentary)** ✓ - **1,000+ utterances** from Parliament sessions (formal speech). [Kaggle: ishworsubedii/nepali-speech-to-text-dataset](https://www.kaggle.com/datasets/ishworsubedii/nepali-speech-to-text-dataset)
 
 - **Nepali Automatic Speech Recognition (HF)** ✓ - **Combined ASR dataset** for transcription. [HF: amitpant7/Nepali-Automatic-Speech-Recognition](https://huggingface.co/amitpant7/Nepali-Automatic-Speech-Recognition) *New.*
 
 - **ASR Nepali 1 Large** ✓ - **50,000+ audio files** with transcriptions. [Kaggle: sonismaharjan/asr-nepali-1-large](https://www.kaggle.com/datasets/sonismaharjan/asr-nepali-1-large)
+
+- **Nepali-English Code-Switching ASR (Technical Interview)** ✓ - **799 audio recordings with transcripts** of Nepali-English code-switched speech from technical interviews. Covers modern IT/tech domains (AWS, RAG, VPC, etc.). Designed for fine-tuning ASR models (Whisper, Wav2Vec2) for the Nepali tech ecosystem. 16kHz, LLM-generated transcripts with human recordings. [HF: devrahulbanjara/ne-en-codeswitching-asr-technical-interview](https://huggingface.co/datasets/devrahulbanjara/ne-en-codeswitching-asr-technical-interview) *New.*
 
 ### TTS & Synthesized Speech
 
