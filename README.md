@@ -155,7 +155,7 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 
 - **OpenSLR-54 (Large Nepali ASR)** ✓ - **157,000 utterances. [openslr.org/54](https://www.openslr.org/54/)
 
-- **Mozilla Common Voice (Nepali)** ✓ - **The dataset contains 1739 clips representing 2 hours of recorded speech (1.38 hours validated) from 63 speakers, recorded from a text corpus of 1,346 sentences.**. Diverse speakers. [commonvoice.mozilla.org/en/datasets](https://commonvoice.mozilla.org/en/datasets) *Note: Direct Nepali link may require navigation; main site confirms availability.*
+- **Mozilla Common Voice (Nepali)** ✓ - **The dataset contains 1739 clips representing 2 hours of recorded speech (1.38 hours validated) from 63 speakers, recorded from a text corpus of 1,346 sentences.**. Diverse speakers. [https://commonvoice.mozilla.org/en/datasets/nepali](https://mozilladatacollective.com/datasets/cmqi732rk00himf07x3hy8twt)
 
 - **Nepali Speech to Text Dataset (Parliamentary)** ✓ - **1,000+ utterances** from Parliament sessions (formal speech). [Kaggle: ishworsubedii/nepali-speech-to-text-dataset](https://www.kaggle.com/datasets/ishworsubedii/nepali-speech-to-text-dataset)
 
