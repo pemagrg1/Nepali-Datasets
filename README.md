@@ -163,6 +163,8 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 
 - **ASR Nepali 1 Large** ✓ - **50,000+ audio files** with transcriptions. [Kaggle: sonismaharjan/asr-nepali-1-large](https://www.kaggle.com/datasets/sonismaharjan/asr-nepali-1-large)
 
+- **Nepali-English Code-Switching ASR (Technical Interview)** ✓ - **799 audio recordings with transcripts** of Nepali-English code-switched speech from technical interviews. Covers modern IT/tech domains (AWS, RAG, VPC, etc.). Designed for fine-tuning ASR models (Whisper, Wav2Vec2) for the Nepali tech ecosystem. 16kHz, LLM-generated transcripts with human recordings. [HF: devrahulbanjara/ne-en-codeswitching-asr-technical-interview](https://huggingface.co/datasets/devrahulbanjara/ne-en-codeswitching-asr-technical-interview) *New.*
+
 ### TTS & Synthesized Speech
 
 - **OpenSLR-43 (High quality TTS)** ✓ - **High-quality single-speaker TTS data**. Professional recording. [openslr.org/43](https://www.openslr.org/43/)
