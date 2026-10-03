@@ -55,6 +55,8 @@ Large-scale text collections for language modeling, pre-training, and linguistic
 
 - **Digitized Nepali Textbooks** ✓ - OCR'd school textbooks (formal register). [HF: dineshkarki/nepali-textbooks-corpus](https://huggingface.co/datasets/dineshkarki/nepali-textbooks-corpus)
 
+- **Nepali STEM & Non-STEM Textbook Datasets (InfoBayAI)** - **94 STEM textbooks (4.45M words)** plus a companion non-STEM set; a published sample of a larger commercial corpus. Education domain, CC-BY-4.0. Gated: accept the terms on Hugging Face to download. [HF: InfoBayAI/Nepali-STEM-Textbook-Dataset](https://huggingface.co/datasets/InfoBayAI/Nepali-STEM-Textbook-Dataset) · [HF: InfoBayAI/Nepali-Non-STEM-Textbook-Dataset](https://huggingface.co/datasets/InfoBayAI/Nepali-Non-STEM-Textbook-Dataset)
+
 ---
 
 ## Classification Datasets
@@ -130,6 +132,10 @@ Extractive, generative, and domain-specific QA datasets.
 - **Nepali Health Forum Corpus** ✓ - **2,500+ Q&A** from health forums with user interactions. [Kaggle: rxnach/nepali-health-forum-corpus-questions-and-answers](https://www.kaggle.com/datasets/rxnach/nepali-health-forum-corpus-questions-and-answers)
 
 - **Nepali QA Dataset (Yunika)** ✓ - **266 extractive QA pairs** with passage context. HuggingFace format. [HF: Yunika/Nepali-QA](https://huggingface.co/datasets/Yunika/Nepali-QA)
+
+- **Nepali Textbook QA** ✓ - **5,201 Q&A pairs** generated from school textbooks with an LLM pipeline, tagged by subject, grade and chapter (education domain, ShareGPT format, Apache-2.0). [HF: dineshkarki/textbooks-qa-nepali](https://huggingface.co/datasets/dineshkarki/textbooks-qa-nepali)
+
+- **Grounded Educational Indicators QA** ✓ - **10,091 synthetic Q&A pairs** generated from the "Annex 7 Educational Indicators, 2024-2025" workbook (enrolment, retention, out-of-school children by local level). Each answer is traceable to a source row. Apache-2.0. [HF: Somtharu181coder/Annex_7_Educational_Indicators_2024-2025](https://huggingface.co/datasets/Somtharu181coder/Annex_7_Educational_Indicators_2024-2025)
 
 ---
 
@@ -372,6 +378,10 @@ Official government datasets and open data portals.
 - **Census Nepal** ✓ - **Official census data from Central Bureau of Statistics** (demographic, geographic, economic). [censusnepal.cbs.gov.np/results](https://censusnepal.cbs.gov.np/results)
 
 - **Local Government of Nepal** - Municipal & district government data (federal structure). *Note: Original link insufficient; recommend using Open Data Nepal instead.*
+
+- **CEHRD Flash Reports** ✓ - **Annual school education statistics** from the Center for Education and Human Resource Development (MoEST): schools, enrolment, teachers and indicators by province, district and local level. PDF reports with annex tables, mostly in English. [cehrd.gov.np/category/flash-report](https://cehrd.gov.np/category/flash-report/)
+
+- **Education Facilities of Nepal (HDX)** ✓ - **Geolocated schools, colleges and universities** exported from OpenStreetMap (ODbL). [HDX: hotosm_npl_education_facilities](https://data.humdata.org/dataset/hotosm_npl_education_facilities)
 
 ---
 
